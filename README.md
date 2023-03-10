@@ -1,4 +1,4 @@
- <div>
+ <div >
  
  <a href="https://github.com/MALEK-FRAIJ/Fraij-ecommerce-website-shopping.git">
  
@@ -14,20 +14,21 @@ It is a simple project for selling clothes over the Internet and is a practical 
 
 # list
 
-- [Introduction](#introduction)
-- [Fraij-ecommerce-website-shopping Snapshot](#fraij-ecommerce-website-shopping-snapshot)
-- [About For Fraij-ecommerce-website-shopping ](#fraij-ecommerce-website-shopping )
+ - [Introduction](#introduction)
+ - [Fraij-ecommerce-website-shopping Snapshot](#fraij-ecommerce-website-shopping-snapshot)
+ - [About For Fraij-ecommerce-website-shopping ](#fraij-ecommerce-website-shopping )
 
 # Introduction 
 
 <P>It is a simple project for selling clothes over the Internet and is a practical application of what I learned in interface design using HTML, where an interface is designed that simulates electronic design websites.</P>
 
+<div align="center">
 
 # Fraij-ecommerce-website-shopping Snapshot
 
 ### Fraij-ecommerce-website-shopping
 
-### Headre and Nav-bar
+### Header 
 <img src="assets/web-interface/1.png" alt="product" width="1000px" height="500px"/>
 
 ### Services 
@@ -41,10 +42,11 @@ It is a simple project for selling clothes over the Internet and is a practical 
 
 ### Footer
 <img src="assets/web-interface/4.png" alt="product" width="1000px" height="500px"/>
+</div>
+
+<div >
 
 # About For Fraij-ecommerce-website-shopping
-
-<div>
 
 You can improve that page by adding many features, for example, supporting many languages and adding night mode, as the interface is designed to be a responsive design, and you can add many responsive designs and add many services.
 
